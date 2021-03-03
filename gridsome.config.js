@@ -25,7 +25,7 @@ module.exports = {
         // Possibility to login with a Strapi user,
         // when content types are not publicly available (optional).
         loginData: {
-          identifier: 'lyb2333',
+          identifier: 'liuyanbin',
           password: 'Bin0227.qwe'
         }
       }
